@@ -4,21 +4,21 @@
 You can contact me in the following ways:
 
 * Phone number: +375445345508
-* [Link to my Telegram](https://t.me/ilya107)
-* [Link to my VK account](https://vk.com/ilya_gera)
-* [Link to my GitHub account](https://github.com/ilya-hera)
+* [Link to my Telegram](https://t.me/ilya_gera)
+* [Link to my GitHub account](https://github.com/illia-hera)
 ***
 
 Summary:
 
-I want to run as professional web developer.  
+I want to run as professional fullstack developer.  
 As an eager worker, I'm ready to study and catch every moment to devote as much time as it's possible to self-development and increased competitiveness.
 
 Skills:
 
+* .Net Core, C#10
 * Basic knowledge of native JS, ES6
-* I can program HTML and CSS thoroughly
-* Ability to use Git
+* I can write HTML and CSS text
+* Use Git
 
 
 Education:
@@ -29,4 +29,4 @@ Education:
 
 English:
 
-I've acquired the skill of speaking English at my university and at sources Duolingo and Lingualeo
+*B1
